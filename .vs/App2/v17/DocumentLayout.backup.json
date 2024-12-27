@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vadim\\source\\repos\\App2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58FA7F79-374E-4AF9-BECB-2DF323B14967}|App2\\App2.csproj|c:\\users\\vadim\\source\\repos\\app2\\app2\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{58FA7F79-374E-4AF9-BECB-2DF323B14967}|App2\\App2.csproj|solutionrelative:app2\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FA7F79-374E-4AF9-BECB-2DF323B14967}|App2\\App2.csproj|c:\\users\\vadim\\source\\repos\\app2\\app2\\tabbedpage1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{58FA7F79-374E-4AF9-BECB-2DF323B14967}|App2\\App2.csproj|solutionrelative:app2\\tabbedpage1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FA7F79-374E-4AF9-BECB-2DF323B14967}|App2\\App2.csproj|c:\\users\\vadim\\source\\repos\\app2\\app2\\tabbedpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FA7F79-374E-4AF9-BECB-2DF323B14967}|App2\\App2.csproj|solutionrelative:app2\\tabbedpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FA7F79-374E-4AF9-BECB-2DF323B14967}|App2\\App2.csproj|c:\\users\\vadim\\source\\repos\\app2\\app2\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FA7F79-374E-4AF9-BECB-2DF323B14967}|App2\\App2.csproj|solutionrelative:app2\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FA7F79-374E-4AF9-BECB-2DF323B14967}|App2\\App2.csproj|c:\\users\\vadim\\source\\repos\\app2\\app2\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FA7F79-374E-4AF9-BECB-2DF323B14967}|App2\\App2.csproj|solutionrelative:app2\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FA7F79-374E-4AF9-BECB-2DF323B14967}|App2\\App2.csproj|c:\\users\\vadim\\source\\repos\\app2\\app2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FA7F79-374E-4AF9-BECB-2DF323B14967}|App2\\App2.csproj|solutionrelative:app2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FA7F79-374E-4AF9-BECB-2DF323B14967}|App2\\App2.csproj|c:\\users\\vadim\\source\\repos\\app2\\app2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FA7F79-374E-4AF9-BECB-2DF323B14967}|App2\\App2.csproj|solutionrelative:app2\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FA7F79-374E-4AF9-BECB-2DF323B14967}|App2\\App2.csproj|c:\\users\\vadim\\source\\repos\\app2\\app2\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{58FA7F79-374E-4AF9-BECB-2DF323B14967}|App2\\App2.csproj|solutionrelative:app2\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACBE4C8-5090-4CCB-A3ED-C6436E216D3B}|App2.Android\\App2.Android.csproj|c:\\users\\vadim\\source\\repos\\app2\\app2.android\\customsliderrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACBE4C8-5090-4CCB-A3ED-C6436E216D3B}|App2.Android\\App2.Android.csproj|solutionrelative:app2.android\\customsliderrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACBE4C8-5090-4CCB-A3ED-C6436E216D3B}|App2.Android\\App2.Android.csproj|c:\\users\\vadim\\source\\repos\\app2\\app2.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACBE4C8-5090-4CCB-A3ED-C6436E216D3B}|App2.Android\\App2.Android.csproj|solutionrelative:app2.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACBE4C8-5090-4CCB-A3ED-C6436E216D3B}|App2.Android\\App2.Android.csproj|c:\\users\\vadim\\source\\repos\\app2\\app2.android\\entryrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACBE4C8-5090-4CCB-A3ED-C6436E216D3B}|App2.Android\\App2.Android.csproj|solutionrelative:app2.android\\entryrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FA7F79-374E-4AF9-BECB-2DF323B14967}|App2\\App2.csproj|c:\\users\\vadim\\source\\repos\\app2\\app2\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{58FA7F79-374E-4AF9-BECB-2DF323B14967}|App2\\App2.csproj|solutionrelative:app2\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FA7F79-374E-4AF9-BECB-2DF323B14967}|App2\\App2.csproj|c:\\users\\vadim\\source\\repos\\app2\\app2\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{58FA7F79-374E-4AF9-BECB-2DF323B14967}|App2\\App2.csproj|solutionrelative:app2\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACBE4C8-5090-4CCB-A3ED-C6436E216D3B}|App2.Android\\App2.Android.csproj|c:\\users\\vadim\\source\\repos\\app2\\app2.android\\datepickerrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACBE4C8-5090-4CCB-A3ED-C6436E216D3B}|App2.Android\\App2.Android.csproj|solutionrelative:app2.android\\datepickerrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACBE4C8-5090-4CCB-A3ED-C6436E216D3B}|App2.Android\\App2.Android.csproj|c:\\users\\vadim\\source\\repos\\app2\\app2.android\\pickerrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACBE4C8-5090-4CCB-A3ED-C6436E216D3B}|App2.Android\\App2.Android.csproj|solutionrelative:app2.android\\pickerrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FA7F79-374E-4AF9-BECB-2DF323B14967}|App2\\App2.csproj|c:\\users\\vadim\\source\\repos\\app2\\app2\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{58FA7F79-374E-4AF9-BECB-2DF323B14967}|App2\\App2.csproj|solutionrelative:app2\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 17,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomSliderRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\App2\\App2.Android\\CustomSliderRenderer.cs",
+              "RelativeDocumentMoniker": "App2.Android\\CustomSliderRenderer.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\App2\\App2.Android\\CustomSliderRenderer.cs",
+              "RelativeToolTip": "App2.Android\\CustomSliderRenderer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:38:04.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\App2\\App2\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "App2\\Page1.xaml.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\App2\\App2\\Page1.xaml.cs",
+              "RelativeToolTip": "App2\\Page1.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvxoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:11:15.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\App2\\App2\\Page1.xaml",
+              "RelativeDocumentMoniker": "App2\\Page1.xaml",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\App2\\App2\\Page1.xaml",
+              "RelativeToolTip": "App2\\Page1.xaml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-27T07:43:59.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\App2\\App2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App2\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\App2\\App2\\App.xaml.cs",
+              "RelativeToolTip": "App2\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:23:29.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\App2\\App2\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "App2\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\App2\\App2\\MainPage.xaml.cs",
+              "RelativeToolTip": "App2\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:00:14.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TabbedPage1.xaml",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\App2\\App2\\TabbedPage1.xaml",
+              "RelativeDocumentMoniker": "App2\\TabbedPage1.xaml",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\App2\\App2\\TabbedPage1.xaml",
+              "RelativeToolTip": "App2\\TabbedPage1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-27T11:00:17.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\App2\\App2\\Page2.xaml",
+              "RelativeDocumentMoniker": "App2\\Page2.xaml",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\App2\\App2\\Page2.xaml",
+              "RelativeToolTip": "App2\\Page2.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-27T08:02:27.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TabbedPage1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\App2\\App2\\TabbedPage1.xaml.cs",
+              "RelativeDocumentMoniker": "App2\\TabbedPage1.xaml.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\App2\\App2\\TabbedPage1.xaml.cs",
+              "RelativeToolTip": "App2\\TabbedPage1.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:02:13.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\App2\\App2\\Page2.xaml.cs",
+              "RelativeDocumentMoniker": "App2\\Page2.xaml.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\App2\\App2\\Page2.xaml.cs",
+              "RelativeToolTip": "App2\\Page2.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:11:15.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EntryRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\App2\\App2.Android\\EntryRenderer.cs",
+              "RelativeDocumentMoniker": "App2.Android\\EntryRenderer.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\App2\\App2.Android\\EntryRenderer.cs",
+              "RelativeToolTip": "App2.Android\\EntryRenderer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:46:30.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\App2\\App2.Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "App2.Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\App2\\App2.Android\\MainActivity.cs",
+              "RelativeToolTip": "App2.Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T15:59:40.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PickerRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\App2\\App2.Android\\PickerRenderer.cs",
+              "RelativeDocumentMoniker": "App2.Android\\PickerRenderer.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\App2\\App2.Android\\PickerRenderer.cs",
+              "RelativeToolTip": "App2.Android\\PickerRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T16:04:34.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DatePickerRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\App2\\App2.Android\\DatePickerRenderer.cs",
+              "RelativeDocumentMoniker": "App2.Android\\DatePickerRenderer.cs",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\App2\\App2.Android\\DatePickerRenderer.cs",
+              "RelativeToolTip": "App2.Android\\DatePickerRenderer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T16:09:43.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\App2\\App2\\styles.css",
+              "RelativeDocumentMoniker": "App2\\styles.css",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\App2\\App2\\styles.css",
+              "RelativeToolTip": "App2\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-27T08:32:30.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\App2\\App2\\MainPage.xaml",
+              "RelativeDocumentMoniker": "App2\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\App2\\App2\\MainPage.xaml",
+              "RelativeToolTip": "App2\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-27T07:44:05.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Vadim\\source\\repos\\App2\\App2\\App.xaml",
+              "RelativeDocumentMoniker": "App2\\App.xaml",
+              "ToolTip": "C:\\Users\\Vadim\\source\\repos\\App2\\App2\\App.xaml",
+              "RelativeToolTip": "App2\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-27T08:03:14.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

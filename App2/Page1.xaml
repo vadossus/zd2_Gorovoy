@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App2.Page1">
+    <ContentPage.Resources>
+        <Style TargetType="Slider">
+            <Setter Property="Minimum" Value="0" />
+            <Setter Property="Maximum" Value="100" />
+        </Style>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="20" Spacing="10">
+                <Label x:Name="WelcomeLabel" FontAttributes="Bold" FontSize="Large" TextColor="Gray"/>
+                <Frame CornerRadius="10" Padding="0" BackgroundColor="#808080">
+                    <Picker Title="Вариант расчета" x:Name="CalculationTypePicker">
+                        <Picker.Items>
+                            <x:String>Расчет ежемесячного платежа</x:String>
+                            <x:String>Расчет по выплате</x:String>
+                        </Picker.Items>
+                    </Picker>
+                </Frame>
+
+                <Frame CornerRadius="10" Padding="0" BackgroundColor="#808080">
+                    <Entry Placeholder="Сумма кредита" Keyboard="Numeric" x:Name="LoanAmountEntry" />
+                </Frame>
+                <Frame CornerRadius="10" Padding="0" BackgroundColor="#808080">
+                    <Entry Placeholder="Срок кредита (числом)" Keyboard="Numeric" x:Name="LoanTermEntry" />
+                </Frame>
+                <Frame CornerRadius="10" Padding="0" BackgroundColor="#808080">
+                    <Picker Title="Срок кредита (месяц/год)" x:Name="LoanTermUnitPicker">
+                        <Picker.Items>
+                            <x:String>Месяцев</x:String>
+                            <x:String>Лет</x:String>
+                        </Picker.Items>
+                    </Picker>
+                </Frame>
+
+                <Label Text="Ставка, %" VerticalOptions="Center" HorizontalOptions="Center"/>
+                <Slider Minimum="0" Maximum="100" x:Name="InterestRateSlider" ValueChanged="OnInterestRateSliderValueChanged"/>
+                <Label x:Name="InterestRateValueLabel" VerticalOptions="Center" HorizontalOptions="Center"/>
+                <Frame CornerRadius="10" Padding="0" BackgroundColor="#808080">
+                    <DatePicker x:Name="StartDatePicker" />
+                </Frame>
+
+                <Frame CornerRadius="10" Padding="0" BackgroundColor="#808080">
+                    <Picker Title="Тип платежей" x:Name="PaymentTypePicker">
+                        <Picker.Items>
+                            <x:String>Аннуитетный</x:String>
+                            <x:String>Дифференцированный</x:String>
+                        </Picker.Items>
+                    </Picker>
+                </Frame>
+
+                <Button Text="Рассчитать" Clicked="OnCalculateClicked" />
+
+                <Label Text="Ежемесячный платеж:" FontAttributes="Bold" />
+                <Label x:Name="MonthlyPaymentLabel" />
+
+                <Label Text="Общая сумма:" FontAttributes="Bold" />
+                <Label x:Name="TotalAmountLabel" />
+
+                <Label Text="Переплата:" FontAttributes="Bold" />
+                <Label x:Name="OverpaymentLabel" />
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
+
+
+
+
+
+
+

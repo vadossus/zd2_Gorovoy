@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App2.MainPage"
+             StyleClass="contentpage">
+
+    <StackLayout Padding="20" VerticalOptions="CenterAndExpand">
+        <Image Source="Resources/Images/image.png"
+       Aspect="AspectFit"
+       HorizontalOptions="Center"
+       VerticalOptions="Center"
+       WidthRequest="300"
+       HeightRequest="300" />
+        <Frame CornerRadius="10" Padding="0" BackgroundColor="#808080">
+            <Entry x:Name="LoginEntry" Placeholder="Логин"/>
+        </Frame>
+        <Frame CornerRadius="10" Padding="0" BackgroundColor="#808080">
+            <Entry x:Name="PasswordEntry" Placeholder="Пароль" IsPassword="True" />
+        </Frame>
+        <Button Text="Войти" Clicked="OnLoginClicked" />
+    </StackLayout>
+
+</ContentPage>
+

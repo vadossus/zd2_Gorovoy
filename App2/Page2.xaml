@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App2.Page2">
+    <ContentPage.Content>
+        <StackLayout Padding="20" VerticalOptions="CenterAndExpand" Spacing="10">
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+                <Label Text="Центробанк РФ:" 
+                       FontAttributes="Bold" 
+                       FontSize="Medium" 
+                       VerticalOptions="Center" 
+                       HorizontalOptions="StartAndExpand"/>
+                <Label Text="Текущая дата:"
+                       FontAttributes="Bold" 
+                       FontSize="Medium" 
+                       VerticalOptions="Center" 
+                       HorizontalOptions="EndAndExpand"/>
+            </StackLayout>
+
+            <Grid ColumnSpacing="20" RowSpacing="10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <Label Text="USD" Grid.Row="0" Grid.Column="0" VerticalOptions="Center" HorizontalOptions="Start"/>
+                <Label x:Name="UsdRateLabel" Grid.Row="0" Grid.Column="1" VerticalOptions="Center" HorizontalOptions="Start"/>
+                <DatePicker x:Name="CurrencyDatePicker" 
+                            Grid.Row="0" Grid.Column="2" 
+                            Format="dd/MM/yyyy" 
+                            VerticalOptions="Center" 
+                            HorizontalOptions="End" 
+                            DateSelected="OnDateSelected"/>
+
+                <Label Text="EUR" Grid.Row="1" Grid.Column="0" VerticalOptions="Center" HorizontalOptions="Start"/>
+                <Label x:Name="EurRateLabel" Grid.Row="1" Grid.Column="1" VerticalOptions="Center" HorizontalOptions="Start"/>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+
+
+
+
